@@ -7,3 +7,10 @@ There is a simple simulation:
 
 
 ![simulation01](https://user-images.githubusercontent.com/19886019/35471378-ff7b72b6-03be-11e8-8c72-db520e5e8a9e.JPG)
+
+There is a flowchart to display how source computer ping destination computer clearly:
+
+
+![simulation02](https://user-images.githubusercontent.com/19886019/35477350-7eeea0b6-0425-11e8-9d1a-60d03771f63a.JPG)
+
+
