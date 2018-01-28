@@ -13,4 +13,10 @@ There is a flowchart to display how source computer ping destination computer cl
 
 ![simulation02](https://user-images.githubusercontent.com/19886019/35477350-7eeea0b6-0425-11e8-9d1a-60d03771f63a.JPG)
 
+It is the detail about networking connection principle.
+
+
+![simulation03](https://user-images.githubusercontent.com/19886019/35477460-aa3e8266-0427-11e8-85aa-68606b69b59e.JPG)
+
+Application:
 
